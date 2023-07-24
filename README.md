@@ -1,34 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-###
 
-<p align="left">My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt in Germany.<br>I'm learning Web Development, online at the DCI.</p>
+My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt in Germany.   I'm learning Web Development, online at the DCI.
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+🔭 I’m currently working on my Portfolio  
+🌱 I’m currently learning at DCI (Digital Career Institute)  
+👯 I’m looking to collaborate on EndProjekt  💬 Ask me about HTML CSS  
+✨ Creating bugs since 2020  
+📚 I'm currently learning to be a Web Developer  
+🎯 Goals: working for a great Company  
+🎲 Fun fact: I've never been in London
 
-###
+### What do I currently learn at the DCI?
 
-<p align="left">🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning at DCI (Digital Career Institute)<br>👯 I’m looking to collaborate on EndProjekt<br>💬 Ask me about HTML CSS<br>✨ Creating bugs since 2020<br>📚 I'm currently learning to be a Web Developer<br>🎯 Goals: working for a good Company<br>🎲 Fun fact: I've never been in London</p>
+- Ubuntu:
+  - Work on Ubuntu
+  - Work with Ubuntu (Linux) Terminal (CLI)
+- Git:
+  - Work with Git- and GitHub-Commands
+  - Git as Versioning-System</p>
 
-###
+## I code with
 
-<h3 align="left">What do I currently learn at the DCI?</h3>
-
-###
-
-<p align="left">- Ubuntu:<br>  - Work on Ubuntu<br>  - Work with Ubuntu (Linux) Terminal (CLI)<br>- Git:<br>  - Work with Git- and GitHub-Commands<br>  - Git as Versioning-System</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<h4 align="left">Operating System</h4>
-
-###
+#### Operating System
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows8 logo"  />
@@ -42,15 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
-
-<p align="left"></p>
 
 ###
 
-<h4 align="left">Programming Languages</h4>
-
-###
+#### Programming Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -72,13 +63,8 @@
 
 ###
 
-<p align="left"></p>
 
-###
-
-<h4 align="left">Developing-Tools</h4>
-
-###
+#### Developing-Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -93,10 +79,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typo3/FF8700" height="40" alt="typo3 logo"  />
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
