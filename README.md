@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+I'm BulletStorm. Call me Bullet. I'm 40 years old and going to learn Web Developement. Online at the DCI.
+
+What do I learn at the DCI?
+
+- Ubuntu:
+  - Work on Ubuntu
+  - Work with Ubuntu (Linux) Terminal (CLI)
+- Git:
+  - Work with Git- and GitHub-Commands
+  - Git as Versioning-System
 
 <!--
 **BulletStormXT/BulletStormXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
