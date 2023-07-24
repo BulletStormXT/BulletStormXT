@@ -11,6 +11,8 @@ What do I learn at the DCI?
   - Work with Git- and GitHub-Commands
   - Git as Versioning-System
 
+
+-----
 <!--
 **BulletStormXT/BulletStormXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
