@@ -28,3 +28,5 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BulletStormXT&show_icons=true&theme=transparent&hide_border=true)](https://github.com/BulletStormXT/github-readme-stats)  ![BulletStormXT's GitHub stats](https://github-readme-stats.vercel.app/api?username=BulletStormXT&show_icons=true&theme=transparent&hide_border=true)  
