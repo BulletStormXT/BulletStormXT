@@ -82,9 +82,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-<h4 align="left">Working with these Browsers</h4>
-
-###
+#### Working with these Browsers
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
@@ -96,13 +94,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left">Tools & Social</p>
-
-###
+#### Tools & Social
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
