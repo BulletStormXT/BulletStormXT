@@ -15,13 +15,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ### What do I currently learn at the DCI?
 
-Ubuntu:
-  - Work on Ubuntu
-  - Work with Ubuntu (Linux) Terminal (CLI)
-
-Git:  
-  - Work with Git- and GitHub-Commands
-  - Git as Versioning-System</p>
+[What we currently learn at the DCI](learn_at_dci.md "What we currently learn at DCI")
 
 ## I code with
 
