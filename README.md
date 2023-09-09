@@ -7,7 +7,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 🔭 I’m currently working on my Portfolio  
 🌱 I’m currently learning at DCI (Digital Career Institute)  
-👯 I’m looking to collaborate on EndProjekt   
+👯 I’m looking to collaborate at an big project   
 💬 Ask me about HTML CSS  
 ✨ Creating bugs since 2020  
 📚 I'm currently learning to be a Web Developer  
