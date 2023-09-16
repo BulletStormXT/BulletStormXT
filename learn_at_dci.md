@@ -11,3 +11,4 @@ Git:
 HTML & CSS:
   - Writing HTML-Files, Tags for MarkUp
   - Writing CSS, SCSS, SASS for styling the MarkUp
+  - Bootstrap
