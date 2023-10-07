@@ -134,8 +134,8 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img src="https://github-readme-stats.vercel.app/api?username=BulletStormXT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BulletStormXT&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=BulletStormXT&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <iframe src="https://api.eu.badgr.io/public/collections/36f0f86e75524b03b1843fe311f6988d?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=150" title="Web Developer" style="width: 330px; height: 150px; border: 0px;"></iframe>
-</div>
+<!--  <iframe src="https://api.eu.badgr.io/public/collections/36f0f86e75524b03b1843fe311f6988d?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=150" title="Web Developer" style="width: 330px; height: 150px; border: 0px;"></iframe>
+</div> -->
 
 ###
 
