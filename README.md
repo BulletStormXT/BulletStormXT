@@ -1,13 +1,12 @@
 # Hey 👋 What's up?
 
-
-My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt in Germany.   I'm learning Web Development, online at the DCI.
+My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt in Germany. I'm learning Web Development, online at the DCI.
 
 ## About me
 
 🔭 I’m currently working on my Portfolio  
 🌱 I’m currently learning at DCI (Digital Career Institute)  
-👯 I’m looking to collaborate at an big project   
+👯 I’m looking to collaborate at an big project  
 💬 Ask me about HTML CSS  
 ✨ Creating bugs since 2020  
 📚 I'm currently learning to be a Web Developer  
@@ -33,7 +32,6 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux UI+CLI/Terminal"  />
 </div>
-
 
 ###
 
@@ -65,10 +63,10 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 </div>
 
 ###
+
 </div>
 
 ###
-
 
 #### Developing-Tools
 
@@ -103,13 +101,17 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 #### Tools & Social
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" title="Slack" />
+  <a href="https://bullletstormxt.slack.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" title="Slack" /> </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn" />
+  <a href="www.linkedin.com/in/sebastian-peinelt-01b7524a">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn" /></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" title="Discord // User: BulletStormXT" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" title="Trello"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
   <img width="12" />
