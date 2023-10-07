@@ -30,7 +30,12 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" height="40" alt="opensuse logo" title="OpenSuse"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux UI+CLI/Terminal"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux UI+CLI/Terminal"  />  
+  <img width="12" />
+    <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo" title="Microsoft Windows PowerShell 7"  />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" title="Linux Bash (Terminal)" />
 </div>
 
 ###
@@ -51,20 +56,28 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="NodeJS" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo" title="PHP 8" />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo" title="MarkDown" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="BootStrap 5"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" title="TailWind" /> -->
+  <!-- <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" title="npm - Node Packet Manager" />
 </div>
 
 ###
-
-</div>
 
 ###
 
@@ -75,14 +88,25 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub / GitHub Desktop" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo" title="Vercel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo" title="BitBucket" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VSCode" />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  /> -->
-<!--  <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  /> -->
-<!--  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" title="Microsoft Visual Studio Professional & Community" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="40" alt="jetbrains logo" title="JetBrains IDE" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/phpstorm/000000" height="40" alt="phpstorm logo" title="JetBrains PHPStorm IDE" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webstorm/000000" height="40" alt="webstorm logo" title="JetBrains WebStorm IDE" />
+  <img width="12" />
+
   <img src="https://cdn.simpleicons.org/typo3/FF8700" height="40" alt="typo3 logo" title="Typo 3" />
-</div>
+  <!-- <img width="12" /> -->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo" title="Hugo"  /> -->
+  </div>
 
 ###
 
@@ -125,6 +149,8 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="Google" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo" title="InkScape" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo" title="DevIcon" />
 </div>
 
 ###
@@ -135,8 +161,8 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img src="https://github-readme-stats.vercel.app/api?username=BulletStormXT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BulletStormXT&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=BulletStormXT&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-<!--  <iframe src="https://api.eu.badgr.io/public/collections/36f0f86e75524b03b1843fe311f6988d?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=150" title="Web Developer" style="width: 330px; height: 150px; border: 0px;"></iframe>
-</div> -->
+ <!-- <iframe src="https://api.eu.badgr.io/public/collections/36f0f86e75524b03b1843fe311f6988d?embed=true&embedVersion=1&embedWidth=330&embedHeight=150" title="Web Developer" style="width: 330px; height: 150px; border: 0px;"></iframe> -->
+</div>
 
 ###
 
