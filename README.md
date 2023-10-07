@@ -103,7 +103,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" title="Slack" />
   <img width="12" />
-  <a href="https://www.linkedin.com/in/sebastian-peinelt-01b7524a">
+  <a href="https://www.linkedin.com/in/sebastian-peinelt-01b7524a" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn" /></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" title="Discord // User: BulletStormXT" />
