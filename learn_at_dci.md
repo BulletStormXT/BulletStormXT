@@ -32,6 +32,7 @@
 - Work with JavaScript-Classes
 - Work with JavaScript-Conditions
 - Work with JavaScript-Events
+- Work with JavaScript-Filter
 - Work with TypeScript
 
 <!-- ![WebDev Frontend Developer](./badges/Digital%20Career%20Institute%20-%20Frontend%20developer%20-%202023-10-07.png) -->
