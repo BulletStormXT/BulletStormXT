@@ -4,7 +4,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ## About me
 
-🔭 I’m currently working on a little node.JS JavaScript Project
+🔭 I’m currently working on a little node.JS JavaScript Project  
 🌱 I’m currently studying at DCI (Digital Career Institute)  
 👯 I’m looking to collaborate at an big project  
 💬 Ask me about Germany  
