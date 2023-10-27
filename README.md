@@ -4,14 +4,14 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ## About me
 
-🔭 I’m currently working on a little node.JS JavaScript Project  
+🔭 I’m currently working on a little JavaScript Project  
 🌱 I’m currently studying at DCI (Digital Career Institute)  
 👯 I’m looking to collaborate at an big project  
-💬 Ask me about Germany  
-✨ Creating bugs since 2020  
+💬 Ask me about Erfurt  
+✨ Creating bugs since 2020, WebSites since 2002  
 📚 I'm currently learning to be a Full Stack Web Developer  
 🎯 Goals: working for a great Company  
-🎲 Fun fact: I've never been in Paris
+🎲 Fun fact: Roses are Red, Violets are Blue, unexpected '{' on line 32
 
 ### What do I currently learn at the DCI?
 

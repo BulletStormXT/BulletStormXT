@@ -31,7 +31,6 @@
 - Work with JavaScript-Loops
 - Work with JavaScript-Classes
 - Work with JavaScript-Conditions
-- Work with JavaScript-Events
 - Work with JavaScript-Filter
 - Work with TypeScript
 
