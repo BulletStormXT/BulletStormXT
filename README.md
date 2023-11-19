@@ -1,4 +1,4 @@
-# Hey 👋 What's up?  
+# Hey 👋 What's up?
 
 My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt in Germany. I'm learning Web Development, online at the DCI.
 
