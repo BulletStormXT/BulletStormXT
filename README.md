@@ -7,7 +7,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 🔭 I’m currently working on a little JavaScript Project  
 🌱 I’m currently studying at DCI (Digital Career Institute)  
 👯 I’m looking to collaborate at an big project  
-💬 Ask me about Erfurt  
+💬 Ask me about my hobbies  
 ✨ Creating bugs since 2020, WebSites since 2002  
 📚 I'm currently learning to be a Full Stack Web Developer  
 🎯 Goals: working for a great Company  
