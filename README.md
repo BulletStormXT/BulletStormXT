@@ -12,6 +12,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 📚 I'm currently learning to be a Full Stack Web Developer  
 🎯 Goals: working for a great Company  
 🎲 Fun fact: Roses are Red, Violets are Blue, unexpected '{' on line 32
+🎊 Funny Joke: Why did the JavaScript developer wear glasses? Because he couldn’t C#!
 
 ### What do I currently learn at the DCI?
 
