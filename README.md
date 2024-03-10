@@ -106,7 +106,8 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" title="JetBrains WebStorm IDE" />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="DataGrip logo" title="JetBrains DataGrip IDE" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/typo3/FF8700" height="40" alt="typo3 logo" title="Typo 3" />
   <!-- <img width="12" /> -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo" title="Hugo"  /> -->
