@@ -40,7 +40,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-#### <center>Programming Languages</center>
+#### <p align="center">Programming Languages</p>
 
 <div align="center">
 
@@ -97,7 +97,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-<center>#### Developing-Tools</center>
+#### <p align="center">Developing-Tools</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git / GitBash / Git for Windows" />
@@ -130,7 +130,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-<center>#### Working with these Browsers</center>
+#### <p align="center">Working with these Browsers</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" title="Google Chrome" />
@@ -142,7 +142,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-<center>#### Tools & Social</center>
+#### <palign="center">Tools & Social</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" title="Slack" />
