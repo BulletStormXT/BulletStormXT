@@ -60,6 +60,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.JS" />
   <img width="12" />
+  <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo" title="Vite.JS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="expressjs logo" title="express.JS"  />
@@ -74,6 +75,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  height="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server"  />
   <img width="12" />
+  <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo" title="MarkDown" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="BootStrap 5"  />
@@ -112,6 +114,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo" title="Postman"  />
   <img width="12" />
+  <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo" title="JetBrains IDE"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo" title="JetBrains PHPStorm IDE"  />
@@ -157,6 +160,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" title="Adobe Photoshop" />
   <img width="12" />
+  <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" height="40" alt="dreamweaver logo" title="Adobe DreamWeaver" />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" title="GIMP - Gnu Image Manipulation Program" />
@@ -171,6 +175,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo" title="DevIcon" />
   <img width="12" />
+  <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" height="40" alt="codepen logo" title="CodePen" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="stack overflow logo" title="Stack OverFlow" />
