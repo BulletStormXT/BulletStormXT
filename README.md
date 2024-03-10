@@ -153,7 +153,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo" title="DevIcon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" height="40" alt="codepen logo" title="CodePen" />
 </div>
 
 ###
