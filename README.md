@@ -86,7 +86,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git / GitBash / Git for Windows" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub / GitHub Desktop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub / GitHub Desktop"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"  height="40" alt="vercel logo" title="Vercel"  />
   <img width="12" />
