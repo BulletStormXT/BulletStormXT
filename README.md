@@ -148,7 +148,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro logo" title="Adobe Premiere Pro" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo" title="FileZilla (FTP/SFTP)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" height="40" alt="filezilla logo" title="FileZilla (FTP/SFTP)" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="Google" />
   <img width="12" />
