@@ -20,7 +20,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ## I code with
 
-<center>#### Operating System</center>
+#### <i align="center">Operating System</center></i>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019"  />
