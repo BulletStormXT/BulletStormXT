@@ -98,9 +98,9 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jetbrains/000000" height="40" alt="jetbrains logo" title="JetBrains IDE" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/phpstorm/000000" height="40" alt="phpstorm logo" title="JetBrains PHPStorm IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo" title="JetBrains PHPStorm IDE"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webstorm/000000" height="40" alt="webstorm logo" title="JetBrains WebStorm IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" title="JetBrains WebStorm IDE" />
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/typo3/FF8700" height="40" alt="typo3 logo" title="Typo 3" />
