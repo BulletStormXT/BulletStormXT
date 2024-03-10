@@ -25,7 +25,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 <div align="left">
   <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" title="Ubuntu" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" alt="ubuntu logo" title="Ubuntu, Zorin + andere Distro's" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" title="Debian" />
   <img width="12" />
@@ -33,9 +33,8 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux UI+CLI/Terminal"  />  
   <img width="12" />
-    <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo" title="Microsoft Windows PowerShell 7"  />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo" title="Microsoft Windows PowerShell 7"  />
   <img width="12" />
-
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" title="Linux Bash (Terminal)" />
 </div>
 
