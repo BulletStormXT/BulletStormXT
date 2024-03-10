@@ -23,7 +23,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 #### Operating System
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" alt="ubuntu logo" title="Ubuntu, Zorin + andere Distro's" />
   <img width="12" />
