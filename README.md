@@ -20,9 +20,9 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ## I code with
 
-#### Operating System
+<center>#### Operating System</center>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" alt="ubuntu logo" title="Ubuntu, Zorin + andere Distro's" />
@@ -40,9 +40,9 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-#### Programming Languages
+<center>#### Programming Languages</center>
 
-<div align="left">
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 <img width="12" />
@@ -97,9 +97,9 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-#### Developing-Tools
+<center>#### Developing-Tools</center>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git / GitBash / Git for Windows" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub / GitHub Desktop"  />
@@ -130,9 +130,9 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-#### Working with these Browsers
+<center>#### Working with these Browsers</center>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" title="Google Chrome" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo" title="Mozilla Firefox" />
@@ -142,9 +142,9 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-#### Tools & Social
+<center>#### Tools & Social</center>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" title="Slack" />
   <img width="12" />
   <a href="https://www.linkedin.com/in/sebastian-peinelt-01b7524a" target="_blank">
