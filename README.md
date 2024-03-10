@@ -142,7 +142,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ###
 
-#### <palign="center">Tools & Social</p>
+#### <p align="center">Tools & Social</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" title="Slack" />
