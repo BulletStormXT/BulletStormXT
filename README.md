@@ -33,6 +33,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux UI+CLI/Terminal"  />  
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" title="Microsoft Windows PowerShell 7"  />
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo" title="Microsoft Windows PowerShell 7"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" title="Linux Bash (Terminal)" />
