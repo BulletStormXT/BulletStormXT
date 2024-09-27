@@ -4,7 +4,7 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ## About me
 
-🔭 I’m currently working on my Portfolio. The work at an Portfolio never ends.
+🔭 I’m currently working on my Portfolio. The work at an Portfolio never ends.  
 🌱 I’m currently will get a new job  
 👯 I’m looking to collaborate at an big project  
 💬 Ask me about my hobbies  
