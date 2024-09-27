@@ -4,19 +4,17 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ## About me
 
-🔭 I’m currently working on my Portfolio  
-🌱 I’m currently studying at DCI (Digital Career Institute)  
+🔭 I’m currently working on my Portfolio. The work at an Portfolio never ends.
+🌱 I’m currently will get a new job  
 👯 I’m looking to collaborate at an big project  
 💬 Ask me about my hobbies  
 ✨ Creating bugs since 2020, WebSites since 2002  
-📚 I'm currently learning to be a Full Stack Web Developer  
+📚 I'm currently learning Laravel
 🎯 Goals: working for a great Company  
 🎲 Fun fact: Roses are Red, Violets are Blue, unexpected '{' on line 32  
 🎊 Funny Joke: Why did the JavaScript developer wear glasses? Because he couldn’t C#!
 
 ### What do I currently learn at the DCI?
-
-[What we currently learn at the DCI](learn_at_dci.md "What we currently learn at DCI")
 
 ## <p align="center">I code with</p>
 
