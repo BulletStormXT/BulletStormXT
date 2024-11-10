@@ -14,9 +14,6 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 🎲 Fun fact: Roses are Red, Violets are Blue, unexpected '{' on line 32  
 🎊 Funny Joke: Why did the JavaScript developer wear glasses? Because he couldn’t C#!
 
-### What do I currently learn at the DCI?
-
-
 #### <p align="center">Operating System</p>
 
 <div align="center">
