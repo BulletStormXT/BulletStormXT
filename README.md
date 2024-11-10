@@ -16,7 +16,6 @@ My name is Sebastian and I'm an ongoing Web Developer, from the near of Erfurt i
 
 ### What do I currently learn at the DCI?
 
-## <p align="center">I code with</p>
 
 #### <p align="center">Operating System</p>
 
